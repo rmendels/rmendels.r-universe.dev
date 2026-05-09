@@ -1,6 +1,19 @@
 [
   {
-    "package": "YourPackageName",
+    "package": "rerddapUtils",
     "url": "https://github.com/rmendels/rerddapUtils"
-  }
+  },
+   {
+    "package": "rerddap",
+    "url": "https://github.com/rmendels/rerddap"
+  },
+   {
+    "package": "rerddapXtracto",
+    "url": "https://github.com/rmendels/rerddapXtracto"
+  },
+  {
+    "package": "plotdap",
+    "url": "https://github.com/rmendels/plotdap"
+  },
+
 ]
